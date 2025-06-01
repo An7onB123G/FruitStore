@@ -1,0 +1,17 @@
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\FruitStore.exe.config
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\FruitStore.exe
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\FruitStore.pdb
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.AssemblyReference.cache
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.Form1.resources
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.Properties.Resources.resources
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.GenerateResource.cache
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.CoreCompileInputs.cache
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.exe
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.pdb
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\EntityFramework.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\EntityFramework.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.Up2Date
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.Migrations.TestMigrations.resources
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.Migrations.TestMigrations2.resources
