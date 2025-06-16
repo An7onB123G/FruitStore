@@ -15,3 +15,191 @@ C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\EntityFramework.SqlSe
 C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.Up2Date
 C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.Migrations.TestMigrations.resources
 C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\obj\Debug\FruitStore.Migrations.TestMigrations2.resources
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\FruitStore.exe.config
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\FruitStore.exe
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\FruitStore.pdb
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\EntityFramework.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\EntityFramework.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.AssemblyReference.cache
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.exe.config
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.Form1.resources
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.Migrations.TestMigrations.resources
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.Migrations.TestMigrations2.resources
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.Properties.Resources.resources
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.GenerateResource.cache
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.CoreCompileInputs.cache
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.csproj.Up2Date
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.exe
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\obj\Debug\FruitStore.pdb
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Azure.Core.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Azure.Identity.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Buffers.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.ClientModel.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Memory.Data.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Memory.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.AccessControl.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Text.Json.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.ValueTuple.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Azure.Core.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Azure.Identity.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Buffers.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.ClientModel.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Memory.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Memory.Data.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.AccessControl.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Text.Json.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\System.ValueTuple.xml
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\1212-4\Desktop\Anton 11a\FruitStore\FruitStore\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Azure.Core.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Azure.Identity.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Buffers.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.ClientModel.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Memory.Data.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Memory.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.AccessControl.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Text.Json.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.ValueTuple.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Azure.Core.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Azure.Identity.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Buffers.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.ClientModel.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Memory.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Memory.Data.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.AccessControl.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Text.Json.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\System.ValueTuple.xml
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\an7on\Desktop\alo\FruitStore\FruitStore\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
