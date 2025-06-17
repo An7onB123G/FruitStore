@@ -16,7 +16,6 @@ namespace FruitStore
     public partial class Form1 : Form
     {
 
-
         FruitController fruitController = new FruitController();
         FruitTypeControllers fruitTypeControllers = new FruitTypeControllers();
 
@@ -37,15 +36,6 @@ namespace FruitStore
 
         }
 
-        //private void LoadRecord(Fruit fruit)
-        //{
-        //    txt_id.Text = fruit.Id.ToString();
-        //    txt_name.Text = fruit.Name;
-        //    txt_description.Text = fruit.Description;
-        //    txt_price.Text = fruit.Price.ToString();
-        //    cmb_type.Text = fruit.FruitType.Name;
-        //}
-
         private void ClearScreen()
         {
             txt_id.Clear();
@@ -57,7 +47,7 @@ namespace FruitStore
 
         private void btn_add_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txt_name.Text) || txt_description.Text == "" || txt_price.Text == "")
+            if (txt_name.Text == "" || txt_description.Text == "" || txt_price.Text == "" || cmb_type.Text == "")
             {
                 MessageBox.Show("Не си въвел данните!");
                 return;
@@ -69,7 +59,64 @@ namespace FruitStore
             newFruit.FruitTypeId = (int)cmb_type.SelectedValue;
 
             fruitController.Create(newFruit);
+            this.fruitsTableAdapter.Fill(this.fruitStoreDataSet1.Fruits);
             MessageBox.Show("Успешно добавихте плод!");
+            ClearScreen();
+        }
+
+        private void btn_delete_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(txt_id.Text))
+            {
+                MessageBox.Show("Не си въвел id за да бъде изтирто!");
+                return;
+            }
+            int fruitId = int.Parse(txt_id.Text);
+
+            Fruit findedFruit = fruitController.Get(fruitId);
+            if (findedFruit == null)
+            {
+                MessageBox.Show($"Няма продукт с id {fruitId}");
+                return;
+            }
+
+            fruitController.Delete(fruitId);
+            this.fruitsTableAdapter.Fill(this.fruitStoreDataSet1.Fruits);
+            MessageBox.Show("Успешно изтрихте плод!");
+            ClearScreen();
+        }
+
+        private void btn_update_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(txt_id.Text))
+            {
+                MessageBox.Show("Не си въвел id за да бъде променено!");
+                return;
+            }
+
+            if (txt_name.Text == "" || txt_description.Text == "" || txt_price.Text == "" || cmb_type.Text == "")
+            {
+                MessageBox.Show("Не си въвел данните които искаш да се променят!");
+                return;
+            }
+
+            int fruitId = int.Parse(txt_id.Text);
+
+            Fruit findedFruit = fruitController.Get(fruitId);
+            if (findedFruit == null)
+            {
+                MessageBox.Show($"Няма продукт с id {fruitId}");
+                return;
+            }
+
+            findedFruit.Name = txt_name.Text;
+            findedFruit.Description = txt_description.Text;
+            findedFruit.Price = decimal.Parse(txt_price.Text);
+            findedFruit.FruitTypeId = (int)cmb_type.SelectedValue;
+
+            fruitController.Update(fruitId, findedFruit);
+            this.fruitsTableAdapter.Fill(this.fruitStoreDataSet1.Fruits);
+            MessageBox.Show("Успешно променихте плод!");
             ClearScreen();
         }
     }

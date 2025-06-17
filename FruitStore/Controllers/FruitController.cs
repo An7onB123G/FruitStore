@@ -23,7 +23,7 @@ namespace FruitStore.Controllers
 
         public List<Fruit> GetAll()
         {
-            return fruitDbContext.Fruits.Include("Fruits").ToList();
+            return fruitDbContext.Fruits.Include("FruitType").ToList();
         }
 
         public void Create(Fruit fruit)
